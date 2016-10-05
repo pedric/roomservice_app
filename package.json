@@ -1,0 +1,27 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "A to do web-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedric/to-do.git"
+  },
+  "keywords": [
+    "todo",
+    "checklist",
+    "notes"
+  ],
+  "author": "Fredrik Larsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedric/to-do/issues"
+  },
+  "homepage": "https://github.com/pedric/to-do#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
